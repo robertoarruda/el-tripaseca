@@ -1,0 +1,5 @@
+requests
+flask
+flask-jsonpify
+flask-restful
+linkedin-api
